@@ -544,7 +544,7 @@ div.photos {
 @media only screen and (min-width: 1050px) {
 
     .hero-image {
-        background-image: url(/images/sunset.png);
+        background-image: url(../images/sunset.png);
         background-color: #000;
         height: 700px;
         margin-top: 2%;
